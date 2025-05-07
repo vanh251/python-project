@@ -1,0 +1,720 @@
+Chỉ số: Age
+  Top 3 cầu thủ cao nhất:
+    - Łukasz Fabiański (Chỉ số: 40.05)
+    - Ashley Young (Chỉ số: 39.82)
+    - James Milner (Chỉ số: 39.33)
+  Top 3 cầu thủ thấp nhất:
+    - Chidozie Obi-Martin (Chỉ số: 17.43)
+    - Mikey Moore (Chỉ số: 17.73)
+    - Ethan Nwaneri (Chỉ số: 18.13)
+----------------------------------------
+Chỉ số: Matches Played
+  Top 3 cầu thủ cao nhất:
+    - Tyrick Mitchell (Chỉ số: 35.00)
+    - Bernd Leno (Chỉ số: 35.00)
+    - Raúl Jiménez (Chỉ số: 35.00)
+  Top 3 cầu thủ thấp nhất:
+    - Ayden Heaven (Chỉ số: 2.00)
+    - Billy Gilmour (Chỉ số: 2.00)
+    - Danny Ward (Chỉ số: 2.00)
+----------------------------------------
+Chỉ số: Starts
+  Top 3 cầu thủ cao nhất:
+    - Tyrick Mitchell (Chỉ số: 35.00)
+    - Bernd Leno (Chỉ số: 35.00)
+    - Matz Sels (Chỉ số: 35.00)
+  Top 3 cầu thủ thấp nhất:
+    - Antony (Chỉ số: 0.00)
+    - Toby Collyer (Chỉ số: 0.00)
+    - Tyrique George (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Minutes
+  Top 3 cầu thủ cao nhất:
+    - Bernd Leno (Chỉ số: 3150.00)
+    - Matz Sels (Chỉ số: 3150.00)
+    - Dean Henderson (Chỉ số: 3150.00)
+  Top 3 cầu thủ thấp nhất:
+    - Ayden Heaven (Chỉ số: 95.00)
+    - Jahmai Simpson-Pusey (Chỉ số: 96.00)
+    - Emi Buendía (Chỉ số: 98.00)
+----------------------------------------
+Chỉ số: Gls
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 28.00)
+    - Alexander Isak (Chỉ số: 23.00)
+    - Erling Haaland (Chỉ số: 21.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Łukasz Fabiański (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Ast
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 18.00)
+    - Jacob Murphy (Chỉ số: 11.00)
+    - Antonee Robinson (Chỉ số: 10.00)
+  Top 3 cầu thủ thấp nhất:
+    - Caleb Okoli (Chỉ số: 0.00)
+    - Sergio Reguilón (Chỉ số: 0.00)
+    - Nathan Aké (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: crdY
+  Top 3 cầu thủ cao nhất:
+    - Saša Lukić (Chỉ số: 12.00)
+    - Will Hughes (Chỉ số: 11.00)
+    - Morgan Gibbs-White (Chỉ số: 11.00)
+  Top 3 cầu thủ thấp nhất:
+    - Thiago (Chỉ số: 0.00)
+    - Timo Werner (Chỉ số: 0.00)
+    - Toby Collyer (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: crdR
+  Top 3 cầu thủ cao nhất:
+    - Bruno Fernandes (Chỉ số: 2.00)
+    - Jack Stephens (Chỉ số: 2.00)
+    - Myles Lewis-Skelly (Chỉ số: 2.00)
+  Top 3 cầu thủ thấp nhất:
+    - İlkay Gündoğan (Chỉ số: 0.00)
+    - Tyrique George (Chỉ số: 0.00)
+    - Tyrone Mings (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: xG
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 24.00)
+    - Erling Haaland (Chỉ số: 20.80)
+    - Alexander Isak (Chỉ số: 19.90)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Archie Gray (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: xAG
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 13.20)
+    - Cole Palmer (Chỉ số: 10.00)
+    - Son Heung-min (Chỉ số: 8.20)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+    - Armel Bella Kotchap (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: PrgC
+  Top 3 cầu thủ cao nhất:
+    - Jeremy Doku (Chỉ số: 189.00)
+    - Mohamed Salah (Chỉ số: 143.00)
+    - Noni Madueke (Chỉ số: 142.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Toby Collyer (Chỉ số: 0.00)
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: PrgP
+  Top 3 cầu thủ cao nhất:
+    - Bruno Fernandes (Chỉ số: 281.00)
+    - Joško Gvardiol (Chỉ số: 251.00)
+    - Bruno Guimarães (Chỉ số: 247.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Christian Walton (Chỉ số: 0.00)
+    - Chiedozie Ogbene (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: PrgR
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 440.00)
+    - Bryan Mbeumo (Chỉ số: 319.00)
+    - Alejandro Garnacho (Chỉ số: 281.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Yerson Mosquera (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Gls per 90
+  Top 3 cầu thủ cao nhất:
+    - Jáder Durán (Chỉ số: 0.99)
+    - Donyell Malen (Chỉ số: 0.92)
+    - James Mcatee (Chỉ số: 0.89)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Cheick Doucouré (Chỉ số: 0.00)
+    - Chidozie Obi-Martin (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Ast per 90
+  Top 3 cầu thủ cao nhất:
+    - Tyrique George (Chỉ số: 0.87)
+    - Danny Ings (Chỉ số: 0.63)
+    - Bukayo Saka (Chỉ số: 0.58)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Łukasz Fabiański (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: xG per 90
+  Top 3 cầu thủ cao nhất:
+    - James Mcatee (Chỉ số: 0.83)
+    - Erling Haaland (Chỉ số: 0.76)
+    - Enes Ünal (Chỉ số: 0.72)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+    - Archie Gray (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: xAG per 90
+  Top 3 cầu thủ cao nhất:
+    - Tyrique George (Chỉ số: 0.63)
+    - Mykhailo Mudryk (Chỉ số: 0.58)
+    - Luis Sinisterra (Chỉ số: 0.54)
+  Top 3 cầu thủ thấp nhất:
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Wout Faes (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: GA90
+  Top 3 cầu thủ cao nhất:
+    - Altay Bayındır (Chỉ số: 4.00)
+    - Danny Ward (Chỉ số: 4.00)
+    - Christian Walton (Chỉ số: 2.67)
+  Top 3 cầu thủ thấp nhất:
+    - Jason Steele (Chỉ số: 0.50)
+    - David Raya (Chỉ số: 0.89)
+    - Alisson (Chỉ số: 0.92)
+----------------------------------------
+Chỉ số: Save%
+  Top 3 cầu thủ cao nhất:
+    - Neto (Chỉ số: 84.60)
+    - Mark Travers (Chỉ số: 80.00)
+    - Robert Sánchez (Chỉ số: 76.30)
+  Top 3 cầu thủ thấp nhất:
+    - Altay Bayındır (Chỉ số: 33.30)
+    - Danny Ward (Chỉ số: 40.00)
+    - Hákon Rafn Valdimarsson (Chỉ số: 50.00)
+----------------------------------------
+Chỉ số: CS%
+  Top 3 cầu thủ cao nhất:
+    - Robin Olsen (Chỉ số: 100.00)
+    - Hákon Rafn Valdimarsson (Chỉ số: 100.00)
+    - Jason Steele (Chỉ số: 50.00)
+  Top 3 cầu thủ thấp nhất:
+    - Alex McCarthy (Chỉ số: 0.00)
+    - Alex Palmer (Chỉ số: 0.00)
+    - Altay Bayındır (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: PK Save%
+  Top 3 cầu thủ cao nhất:
+    - Caoimhín Kelleher (Chỉ số: 100.00)
+    - Jordan Pickford (Chỉ số: 100.00)
+    - Dean Henderson (Chỉ số: 50.00)
+  Top 3 cầu thủ thấp nhất:
+    - Alex McCarthy (Chỉ số: 0.00)
+    - Alex Palmer (Chỉ số: 0.00)
+    - Alisson (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: SoT%
+  Top 3 cầu thủ cao nhất:
+    - Séamus Coleman (Chỉ số: 100.00)
+    - Ryan Fraser (Chỉ số: 100.00)
+    - Conor Coady (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Abdukodir Khusanov (Chỉ số: 0.00)
+    - Adam Lallana (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: SoT per 90
+  Top 3 cầu thủ cao nhất:
+    - Donyell Malen (Chỉ số: 2.76)
+    - Luis Sinisterra (Chỉ số: 2.29)
+    - Jáder Durán (Chỉ số: 2.12)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: G per Sh
+  Top 3 cầu thủ cao nhất:
+    - John Stones (Chỉ số: 1.00)
+    - Myles Lewis-Skelly (Chỉ số: 0.50)
+    - Hwang Hee-chan (Chỉ số: 0.40)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - İlkay Gündoğan (Chỉ số: 0.00)
+    - Álex Moreno (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Dist
+  Top 3 cầu thủ cao nhất:
+    - Ibrahim Sangaré (Chỉ số: 32.00)
+    - Emmanuel Agbadou (Chỉ số: 31.80)
+    - Ryan Fraser (Chỉ số: 31.60)
+  Top 3 cầu thủ thấp nhất:
+    - Kieran Tierney (Chỉ số: 2.60)
+    - Harry Clarke (Chỉ số: 4.50)
+    - John Stones (Chỉ số: 5.10)
+----------------------------------------
+Chỉ số: Cmp
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 2543.00)
+    - Joško Gvardiol (Chỉ số: 2321.00)
+    - William Saliba (Chỉ số: 2320.00)
+  Top 3 cầu thủ thấp nhất:
+    - William Osula (Chỉ số: 11.00)
+    - Albert Grønbaek (Chỉ số: 13.00)
+    - Odsonne Édouard (Chỉ số: 17.00)
+----------------------------------------
+Chỉ số: Cmp%
+  Top 3 cầu thủ cao nhất:
+    - William Saliba (Chỉ số: 94.20)
+    - Nathan Aké (Chỉ số: 93.90)
+    - Manuel Akanji (Chỉ số: 93.90)
+  Top 3 cầu thủ thấp nhất:
+    - Matz Sels (Chỉ số: 51.10)
+    - Altay Bayındır (Chỉ số: 55.50)
+    - George Hirst (Chỉ số: 55.80)
+----------------------------------------
+Chỉ số: TotDist
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 46352.00)
+    - Levi Colwill (Chỉ số: 40277.00)
+    - William Saliba (Chỉ số: 39927.00)
+  Top 3 cầu thủ thấp nhất:
+    - William Osula (Chỉ số: 126.00)
+    - Albert Grønbaek (Chỉ số: 135.00)
+    - Odsonne Édouard (Chỉ số: 230.00)
+----------------------------------------
+Chỉ số: ShortCmp%
+  Top 3 cầu thủ cao nhất:
+    - Łukasz Fabiański (Chỉ số: 100.00)
+    - Robin Olsen (Chỉ số: 100.00)
+    - Christian Walton (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - William Osula (Chỉ số: 61.50)
+    - Paul Onuachu (Chỉ số: 62.90)
+    - George Hirst (Chỉ số: 66.70)
+----------------------------------------
+Chỉ số: MedCmp%
+  Top 3 cầu thủ cao nhất:
+    - Robin Olsen (Chỉ số: 100.00)
+    - Danny Ward (Chỉ số: 100.00)
+    - Neto (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Beto (Chỉ số: 50.00)
+    - William Osula (Chỉ số: 50.00)
+    - Albert Grønbaek (Chỉ số: 50.00)
+----------------------------------------
+Chỉ số: LongCmp%
+  Top 3 cầu thủ cao nhất:
+    - Luis Sinisterra (Chỉ số: 100.00)
+    - Chiedozie Ogbene (Chỉ số: 100.00)
+    - Antony (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Ross Stewart (Chỉ số: 0.00)
+    - Enes Ünal (Chỉ số: 0.00)
+    - Tyrique George (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: KP
+  Top 3 cầu thủ cao nhất:
+    - Bruno Fernandes (Chỉ số: 84.00)
+    - Mohamed Salah (Chỉ số: 82.00)
+    - Cole Palmer (Chỉ số: 82.00)
+  Top 3 cầu thủ thấp nhất:
+    - Tyler Fredricson (Chỉ số: 0.00)
+    - Caleb Okoli (Chỉ số: 0.00)
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Pass into 1_3
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 269.00)
+    - Joško Gvardiol (Chỉ số: 237.00)
+    - Youri Tielemans (Chỉ số: 228.00)
+  Top 3 cầu thủ thấp nhất:
+    - Chiedozie Ogbene (Chỉ số: 0.00)
+    - Ali Al Hamadi (Chỉ số: 0.00)
+    - Martin Dúbravka (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: PPA
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 86.00)
+    - Martin Ødegaard (Chỉ số: 81.00)
+    - Alex Iwobi (Chỉ số: 78.00)
+  Top 3 cầu thủ thấp nhất:
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Armando Broja (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: CrsPA
+  Top 3 cầu thủ cao nhất:
+    - Antonee Robinson (Chỉ số: 28.00)
+    - Pedro Porro (Chỉ số: 26.00)
+    - Milos Kerkez (Chỉ số: 23.00)
+  Top 3 cầu thủ thấp nhất:
+    - Virgil van Dijk (Chỉ số: 0.00)
+    - Wataru Endo (Chỉ số: 0.00)
+    - Wesley Fofana (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: SCA
+  Top 3 cầu thủ cao nhất:
+    - Cole Palmer (Chỉ số: 190.00)
+    - Bruno Fernandes (Chỉ số: 169.00)
+    - Mohamed Salah (Chỉ số: 157.00)
+  Top 3 cầu thủ thấp nhất:
+    - Massimo Luongo (Chỉ số: 0.00)
+    - Alex McCarthy (Chỉ số: 0.00)
+    - Mark Travers (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: SCA90
+  Top 3 cầu thủ cao nhất:
+    - Philip Billing (Chỉ số: 7.83)
+    - Luis Guilherme (Chỉ số: 6.52)
+    - Kevin De Bruyne (Chỉ số: 6.08)
+  Top 3 cầu thủ thấp nhất:
+    - Woyo Coulibaly (Chỉ số: 0.00)
+    - Martin Dúbravka (Chỉ số: 0.00)
+    - Massimo Luongo (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: GCA
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 26.00)
+    - Bukayo Saka (Chỉ số: 22.00)
+    - Mikkel Damsgaard (Chỉ số: 21.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antony (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: GCA90
+  Top 3 cầu thủ cao nhất:
+    - Bukayo Saka (Chỉ số: 1.29)
+    - Solly March (Chỉ số: 1.08)
+    - Michael Kayode (Chỉ số: 0.93)
+  Top 3 cầu thủ thấp nhất:
+    - William Smallbone (Chỉ số: 0.00)
+    - Willian (Chỉ số: 0.00)
+    - Willy Boly (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Tkl
+  Top 3 cầu thủ cao nhất:
+    - Idrissa Gana Gueye (Chỉ số: 124.00)
+    - Daniel Muñoz (Chỉ số: 113.00)
+    - João Gomes (Chỉ số: 105.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+    - Robert Sánchez (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: TklW
+  Top 3 cầu thủ cao nhất:
+    - Idrissa Gana Gueye (Chỉ số: 74.00)
+    - Daniel Muñoz (Chỉ số: 73.00)
+    - Moisés Caicedo (Chỉ số: 64.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - William Osula (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Deff Att
+  Top 3 cầu thủ cao nhất:
+    - Alexis Mac Allister (Chỉ số: 104.00)
+    - Trent Alexander-Arnold (Chỉ số: 103.00)
+    - João Gomes (Chỉ số: 102.00)
+  Top 3 cầu thủ thấp nhất:
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+    - Nick Pope (Chỉ số: 0.00)
+    - Neto (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Lost
+  Top 3 cầu thủ cao nhất:
+    - João Gomes (Chỉ số: 60.00)
+    - Elliot Anderson (Chỉ số: 57.00)
+    - Trent Alexander-Arnold (Chỉ số: 55.00)
+  Top 3 cầu thủ thấp nhất:
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+    - Tyrone Mings (Chỉ số: 0.00)
+    - Luke Shaw (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Blocks
+  Top 3 cầu thủ cao nhất:
+    - Nathan Collins (Chỉ số: 71.00)
+    - Murillo (Chỉ số: 67.00)
+    - Tyrick Mitchell (Chỉ số: 62.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Sh
+  Top 3 cầu thủ cao nhất:
+    - Nathan Collins (Chỉ số: 51.00)
+    - Dara O'Shea (Chỉ số: 47.00)
+    - Murillo (Chỉ số: 44.00)
+  Top 3 cầu thủ thấp nhất:
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antony (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Pass
+  Top 3 cầu thủ cao nhất:
+    - Alexis Mac Allister (Chỉ số: 55.00)
+    - Antoine Semenyo (Chỉ số: 51.00)
+    - Tyrick Mitchell (Chỉ số: 50.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Armel Bella Kotchap (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Int
+  Top 3 cầu thủ cao nhất:
+    - Aaron Wan-Bissaka (Chỉ số: 60.00)
+    - Ryan Gravenberch (Chỉ số: 57.00)
+    - Antonee Robinson (Chỉ số: 57.00)
+  Top 3 cầu thủ thấp nhất:
+    - Chidozie Obi-Martin (Chỉ số: 0.00)
+    - Christian Walton (Chỉ số: 0.00)
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Touches
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 3125.00)
+    - Joško Gvardiol (Chỉ số: 2903.00)
+    - Levi Colwill (Chỉ số: 2728.00)
+  Top 3 cầu thủ thấp nhất:
+    - Albert Grønbaek (Chỉ số: 38.00)
+    - William Osula (Chỉ số: 41.00)
+    - Chidozie Obi-Martin (Chỉ số: 44.00)
+----------------------------------------
+Chỉ số: Def Pen
+  Top 3 cầu thủ cao nhất:
+    - Mark Flekken (Chỉ số: 1338.00)
+    - Bernd Leno (Chỉ số: 1097.00)
+    - Bart Verbruggen (Chỉ số: 1034.00)
+  Top 3 cầu thủ thấp nhất:
+    - Emi Buendía (Chỉ số: 0.00)
+    - Odsonne Édouard (Chỉ số: 1.00)
+    - Mikey Moore (Chỉ số: 1.00)
+----------------------------------------
+Chỉ số: Def 3rd
+  Top 3 cầu thủ cao nhất:
+    - Mark Flekken (Chỉ số: 1660.00)
+    - Jordan Pickford (Chỉ số: 1494.00)
+    - Bernd Leno (Chỉ số: 1354.00)
+  Top 3 cầu thủ thấp nhất:
+    - William Osula (Chỉ số: 2.00)
+    - Odsonne Édouard (Chỉ số: 4.00)
+    - Callum Wilson (Chỉ số: 5.00)
+----------------------------------------
+Chỉ số: Mid 3rd
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 1719.00)
+    - William Saliba (Chỉ số: 1519.00)
+    - Joško Gvardiol (Chỉ số: 1474.00)
+  Top 3 cầu thủ thấp nhất:
+    - Neto (Chỉ số: 0.00)
+    - Fraser Forster (Chỉ số: 0.00)
+    - Danny Ward (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Att 3rd
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 1023.00)
+    - Bryan Mbeumo (Chỉ số: 913.00)
+    - Bruno Fernandes (Chỉ số: 888.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Att Pen
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 327.00)
+    - Alexander Isak (Chỉ số: 178.00)
+    - Antoine Semenyo (Chỉ số: 176.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Take-Ons Att
+  Top 3 cầu thủ cao nhất:
+    - Mohammed Kudus (Chỉ số: 194.00)
+    - Jeremy Doku (Chỉ số: 185.00)
+    - Morgan Rogers (Chỉ số: 153.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Yerson Mosquera (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Succ%
+  Top 3 cầu thủ cao nhất:
+    - Łukasz Fabiański (Chỉ số: 100.00)
+    - Charlie Taylor (Chỉ số: 100.00)
+    - Caoimhín Kelleher (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Abdukodir Khusanov (Chỉ số: 0.00)
+    - Albert Grønbaek (Chỉ số: 0.00)
+    - Woyo Coulibaly (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Tkld%
+  Top 3 cầu thủ cao nhất:
+    - Santiago Bueno (Chỉ số: 100.00)
+    - Woyo Coulibaly (Chỉ số: 100.00)
+    - Abdukodir Khusanov (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Welington (Chỉ số: 0.00)
+    - Wataru Endo (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Carries
+  Top 3 cầu thủ cao nhất:
+    - Joško Gvardiol (Chỉ số: 1886.00)
+    - Virgil van Dijk (Chỉ số: 1746.00)
+    - William Saliba (Chỉ số: 1675.00)
+  Top 3 cầu thủ thấp nhất:
+    - Harry Toffolo (Chỉ số: 17.00)
+    - Albert Grønbaek (Chỉ số: 18.00)
+    - Chidozie Obi-Martin (Chỉ số: 22.00)
+----------------------------------------
+Chỉ số: ProDist
+  Top 3 cầu thủ cao nhất:
+    - Jan Paul van Hecke (Chỉ số: 6740.00)
+    - Joško Gvardiol (Chỉ số: 5715.00)
+    - Rúben Dias (Chỉ số: 5295.00)
+  Top 3 cầu thủ thấp nhất:
+    - Albert Grønbaek (Chỉ số: 15.00)
+    - Harry Toffolo (Chỉ số: 23.00)
+    - Massimo Luongo (Chỉ số: 25.00)
+----------------------------------------
+Chỉ số: Carries 1_3
+  Top 3 cầu thủ cao nhất:
+    - Alex Iwobi (Chỉ số: 102.00)
+    - Joško Gvardiol (Chỉ số: 92.00)
+    - Matheus Cunha (Chỉ số: 88.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Arijanet Muric (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: CPA
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 115.00)
+    - Jeremy Doku (Chỉ số: 90.00)
+    - Noni Madueke (Chỉ số: 87.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Łukasz Fabiański (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Mis
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 109.00)
+    - Morgan Rogers (Chỉ số: 104.00)
+    - Liam Delap (Chỉ số: 99.00)
+  Top 3 cầu thủ thấp nhất:
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Nick Pope (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Dis
+  Top 3 cầu thủ cao nhất:
+    - Mohammed Kudus (Chỉ số: 89.00)
+    - Bruno Guimarães (Chỉ số: 73.00)
+    - Dejan Kulusevski (Chỉ số: 73.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Cresswell (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Rec
+  Top 3 cầu thủ cao nhất:
+    - Virgil van Dijk (Chỉ số: 2153.00)
+    - Joško Gvardiol (Chỉ số: 2132.00)
+    - William Saliba (Chỉ số: 2056.00)
+  Top 3 cầu thủ thấp nhất:
+    - Albert Grønbaek (Chỉ số: 21.00)
+    - Odsonne Édouard (Chỉ số: 26.00)
+    - William Osula (Chỉ số: 27.00)
+----------------------------------------
+Chỉ số: Rec PrgR
+  Top 3 cầu thủ cao nhất:
+    - Mohamed Salah (Chỉ số: 440.00)
+    - Bryan Mbeumo (Chỉ số: 319.00)
+    - Alejandro Garnacho (Chỉ số: 281.00)
+  Top 3 cầu thủ thấp nhất:
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Yerson Mosquera (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Fls
+  Top 3 cầu thủ cao nhất:
+    - João Gomes (Chỉ số: 67.00)
+    - Liam Delap (Chỉ số: 67.00)
+    - Antoine Semenyo (Chỉ số: 66.00)
+  Top 3 cầu thủ thấp nhất:
+    - Tyler Fredricson (Chỉ số: 0.00)
+    - Caoimhín Kelleher (Chỉ số: 0.00)
+    - Alex McCarthy (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Fld
+  Top 3 cầu thủ cao nhất:
+    - Bruno Guimarães (Chỉ số: 100.00)
+    - Matheus Cunha (Chỉ số: 69.00)
+    - John McGinn (Chỉ số: 67.00)
+  Top 3 cầu thủ thấp nhất:
+    - Antonín Kinský (Chỉ số: 0.00)
+    - Willy Boly (Chỉ số: 0.00)
+    - Willian (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Off
+  Top 3 cầu thủ cao nhất:
+    - Dominic Calvert-Lewin (Chỉ số: 27.00)
+    - Chris Wood (Chỉ số: 26.00)
+    - Jamie Vardy (Chỉ số: 25.00)
+  Top 3 cầu thủ thấp nhất:
+    - Alex Palmer (Chỉ số: 0.00)
+    - Christian Eriksen (Chỉ số: 0.00)
+    - Willy Boly (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Crs
+  Top 3 cầu thủ cao nhất:
+    - Pedro Porro (Chỉ số: 191.00)
+    - Bryan Mbeumo (Chỉ số: 182.00)
+    - Bruno Fernandes (Chỉ số: 172.00)
+  Top 3 cầu thủ thấp nhất:
+    - Łukasz Fabiański (Chỉ số: 0.00)
+    - Aaron Ramsdale (Chỉ số: 0.00)
+    - Antonín Kinský (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Recov
+  Top 3 cầu thủ cao nhất:
+    - Moisés Caicedo (Chỉ số: 203.00)
+    - Elliot Anderson (Chỉ số: 196.00)
+    - Bruno Fernandes (Chỉ số: 192.00)
+  Top 3 cầu thủ thấp nhất:
+    - Altay Bayındır (Chỉ số: 0.00)
+    - Danny Ward (Chỉ số: 1.00)
+    - Fraser Forster (Chỉ số: 1.00)
+----------------------------------------
+Chỉ số: Aerl Won
+  Top 3 cầu thủ cao nhất:
+    - Dan Burn (Chỉ số: 134.00)
+    - Nathan Collins (Chỉ số: 112.00)
+    - Virgil van Dijk (Chỉ số: 111.00)
+  Top 3 cầu thủ thấp nhất:
+    - Woyo Coulibaly (Chỉ số: 0.00)
+    - Antony (Chỉ số: 0.00)
+    - Timo Werner (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Aerl Lost
+  Top 3 cầu thủ cao nhất:
+    - Chris Wood (Chỉ số: 128.00)
+    - Jean-Philippe Mateta (Chỉ số: 99.00)
+    - Jørgen Strand Larsen (Chỉ số: 96.00)
+  Top 3 cầu thủ thấp nhất:
+    - Stefan Ortega (Chỉ số: 0.00)
+    - Alex Palmer (Chỉ số: 0.00)
+    - Alphonse Areola (Chỉ số: 0.00)
+----------------------------------------
+Chỉ số: Aerl Won%
+  Top 3 cầu thủ cao nhất:
+    - Martin Dúbravka (Chỉ số: 100.00)
+    - Stefan Ortega (Chỉ số: 100.00)
+    - Bernd Leno (Chỉ số: 100.00)
+  Top 3 cầu thủ thấp nhất:
+    - Woyo Coulibaly (Chỉ số: 0.00)
+    - Kiernan Dewsbury-Hall (Chỉ số: 0.00)
+    - Emi Buendía (Chỉ số: 0.00)
+----------------------------------------
