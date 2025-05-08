@@ -1,0 +1,359 @@
+PHÂN TÍCH CÁC CỤM CẦU THỦ BẰNG K-MEANS (K=4)
+
+Số cụm (K) đã sử dụng: 4
+
+Số lượng cầu thủ trong mỗi cụm:
+Cluster
+0     53
+1    112
+2     70
+3    248
+
+Đặc điểm trung bình của các chỉ số cho từng cụm (giá trị gốc, sau khi xử lý NaN):
+
+--- Cụm 0 (53 cầu thủ) ---
+Age                 27.306226
+Gls                  1.509434
+Ast                  0.849057
+crdY                 5.396226
+crdR                 0.169811
+xG                   1.579245
+xAG                  1.096226
+PrgC                24.962264
+PrgP               107.584906
+PrgR                20.528302
+Gls per 90           0.054340
+Ast per 90           0.028679
+xG per 90            0.056981
+xAG per 90           0.038868
+GA90                 1.485000
+Save%               68.150000
+CS%                 17.900000
+PK Save%             0.000000
+SoT%                27.881132
+SoT per 90           0.182830
+G per Sh             0.084528
+Dist                14.154717
+Cmp               1385.716981
+Cmp%                87.096226
+TotDist          24644.169811
+ShortCmp%           92.169811
+MedCmp%             91.956604
+LongCmp%            60.450943
+KP                  11.735849
+Pass into 1_3      118.132075
+PPA                 10.377358
+CrsPA                1.264151
+SCA                 34.490566
+SCA90                1.236038
+GCA                  3.339623
+GCA90                0.117736
+Tkl                 47.490566
+TklW                29.075472
+Deff Att            38.339623
+Lost                15.000000
+Blocks              35.792453
+Sh                  19.528302
+Pass                16.264151
+Int                 30.188679
+Touches           1872.132075
+Def Pen            215.716981
+Def 3rd            781.811321
+Mid 3rd            904.132075
+Att 3rd            198.471698
+Att Pen             30.452830
+Take-Ons Att        18.396226
+Succ%               58.826415
+Tkld%               32.583019
+Carries           1055.339623
+ProDist           2874.792453
+Carries 1_3         23.037736
+CPA                  2.207547
+Mis                 16.490566
+Dis                  9.433962
+Rec               1249.283019
+Rec PrgR            20.528302
+Fls                 25.245283
+Fld                 19.886792
+Off                  1.283019
+Crs                  9.132075
+Recov              112.169811
+Aerl Won            53.509434
+Aerl Lost           34.283019
+Aerl Won%           58.858491
+
+Cầu thủ ví dụ (và vị trí của họ):
+            Player Position
+             André       MF
+     Calvin Bassey       DF
+     Carlos Baleba       MF
+Christian Nørgaard       MF
+   Cristian Romero       DF
+
+--- Cụm 1 (112 cầu thủ) ---
+Age                 26.672321
+Gls                  2.089286
+Ast                  1.839286
+crdY                 4.517857
+crdR                 0.125000
+xG                   2.349107
+xAG                  1.941071
+PrgC                33.473214
+PrgP                71.830357
+PrgR                67.741071
+Gls per 90           0.106607
+Ast per 90           0.097679
+xG per 90            0.120089
+xAG per 90           0.102589
+GA90                 1.485000
+Save%               68.150000
+CS%                 17.900000
+PK Save%             0.000000
+SoT%                27.523214
+SoT per 90           0.359643
+G per Sh             0.070179
+Dist                18.261607
+Cmp                686.705357
+Cmp%                79.463393
+TotDist          10828.991071
+ShortCmp%           87.627679
+MedCmp%             82.509821
+LongCmp%            56.897321
+KP                  19.357143
+Pass into 1_3       56.678571
+PPA                 14.910714
+CrsPA                4.151786
+SCA                 44.830357
+SCA90                2.339643
+GCA                  4.491071
+GCA90                0.240268
+Tkl                 42.241071
+TklW                24.901786
+Deff Att            38.419643
+Lost                19.116071
+Blocks              22.250000
+Sh                   6.062500
+Pass                16.187500
+Int                 17.133929
+Touches           1069.571429
+Def Pen             54.214286
+Def 3rd            264.732143
+Mid 3rd            505.000000
+Att 3rd            312.071429
+Att Pen             42.026786
+Take-Ons Att        34.196429
+Succ%               41.384821
+Tkld%               46.826786
+Carries            559.892857
+ProDist           1418.357143
+Carries 1_3         24.410714
+CPA                  8.258929
+Mis                 28.812500
+Dis                 20.544643
+Rec                673.919643
+Rec PrgR            67.741071
+Fls                 26.410714
+Fld                 22.982143
+Off                  3.375000
+Crs                 38.330357
+Recov               88.142857
+Aerl Won            23.223214
+Aerl Lost           25.812500
+Aerl Won%           45.934821
+
+Cầu thủ ví dụ (và vị trí của họ):
+            Player Position
+Abdoulaye Doucouré       MF
+      Adam Wharton       MF
+      Amadou Onana       MF
+   Andreas Pereira       MF
+  Andrew Robertson       DF
+
+--- Cụm 2 (70 cầu thủ) ---
+Age                 26.040000
+Gls                  7.557143
+Ast                  5.557143
+crdY                 4.028571
+crdR                 0.114286
+xG                   6.930000
+xAG                  5.114286
+PrgC                83.028571
+PrgP               105.100000
+PrgR               174.714286
+Gls per 90           0.295286
+Ast per 90           0.221429
+xG per 90            0.271286
+xAG per 90           0.203429
+GA90                 1.485000
+Save%               68.150000
+CS%                 17.900000
+PK Save%             0.000000
+SoT%                36.298571
+SoT per 90           0.808857
+G per Sh             0.120143
+Dist                16.832857
+Cmp                760.742857
+Cmp%                75.360000
+TotDist          11996.928571
+ShortCmp%           85.358571
+MedCmp%             77.762857
+LongCmp%            52.661429
+KP                  42.385714
+Pass into 1_3       62.614286
+PPA                 38.100000
+CrsPA                8.857143
+SCA                 92.485714
+SCA90                3.643714
+GCA                 11.485714
+GCA90                0.460429
+Tkl                 37.257143
+TklW                22.871429
+Deff Att            35.485714
+Lost                19.728571
+Blocks              22.942857
+Sh                   3.457143
+Pass                19.485714
+Int                 13.314286
+Touches           1290.642857
+Def Pen             35.614286
+Def 3rd            197.557143
+Mid 3rd            511.400000
+Att 3rd            600.800000
+Att Pen            112.771429
+Take-Ons Att        81.100000
+Succ%               42.388571
+Tkld%               46.204286
+Carries            763.114286
+ProDist           2496.057143
+Carries 1_3         46.785714
+CPA                 34.471429
+Mis                 49.900000
+Dis                 36.700000
+Rec                900.285714
+Rec PrgR           174.714286
+Fls                 25.871429
+Fld                 33.728571
+Off                  7.128571
+Crs                 78.500000
+Recov              100.571429
+Aerl Won            20.142857
+Aerl Lost           31.042857
+Aerl Won%           35.424286
+
+Cầu thủ ví dụ (và vị trí của họ):
+            Player Position
+ Aaron Wan-Bissaka       DF
+      Adama Traoré    FW,MF
+Alejandro Garnacho    MF,FW
+        Alex Iwobi    FW,MF
+    Alexander Isak       FW
+
+--- Cụm 3 (248 cầu thủ) ---
+Age                27.151048
+Gls                 0.592742
+Ast                 0.395161
+crdY                1.552419
+crdR                0.048387
+xG                  0.670968
+xAG                 0.428226
+PrgC                7.987903
+PrgP               17.370968
+PrgR               17.088710
+Gls per 90          0.087500
+Ast per 90          0.060565
+xG per 90           0.112742
+xAG per 90          0.073992
+GA90                1.517903
+Save%              67.851613
+CS%                18.807661
+PK Save%            1.943145
+SoT%               28.628629
+SoT per 90          0.325968
+G per Sh            0.064677
+Dist               16.433871
+Cmp               281.370968
+Cmp%               78.575403
+TotDist          5387.443548
+ShortCmp%          89.459677
+MedCmp%            84.740323
+LongCmp%           52.529234
+KP                  3.967742
+Pass into 1_3      17.318548
+PPA                 3.411290
+CrsPA               0.862903
+SCA                 9.786290
+SCA90               1.658508
+GCA                 0.963710
+GCA90               0.150524
+Tkl                 9.375000
+TklW                5.455645
+Deff Att            9.225806
+Lost                4.584677
+Blocks              6.241935
+Sh                  2.391129
+Pass                3.850806
+Int                 4.282258
+Touches           419.282258
+Def Pen           108.161290
+Def 3rd           209.205645
+Mid 3rd           143.395161
+Att 3rd            69.508065
+Att Pen            11.532258
+Take-Ons Att        8.342742
+Succ%              47.141129
+Tkld%              41.829032
+Carries           239.754032
+ProDist           633.737903
+Carries 1_3         5.741935
+CPA                 2.205645
+Mis                 7.262097
+Dis                 4.540323
+Rec               264.741935
+Rec PrgR           17.088710
+Fls                 6.237903
+Fld                 5.681452
+Off                 0.943548
+Crs                 7.310484
+Recov              23.580645
+Aerl Won            8.395161
+Aerl Lost           8.241935
+Aerl Won%          51.761290
+
+Cầu thủ ví dụ (và vị trí của họ):
+               Player Position
+      Aaron Cresswell       DF
+       Aaron Ramsdale       GK
+   Abdukodir Khusanov       DF
+Abdul Fatawu Issahaku       FW
+       Adam Armstrong    FW,MF
+
+=== NHẬN XÉT VỀ KẾT QUẢ PHÂN CỤM ===
+1. Số cụm tối ưu:
+- Số cụm K=4 được chọn dựa trên giả định rằng các cầu thủ Premier League có thể được chia thành 4 vai trò chính: thủ môn, hậu vệ, tiền vệ, và tiền đạo.
+- Biểu đồ Elbow (xem kmeans_elbow_plot.png) cho thấy sự giảm inertia chậm lại quanh K=4 hoặc K=5, hỗ trợ lựa chọn này.
+- K=4 phù hợp với các vai trò cơ bản trong bóng đá, trong khi K lớn hơn (ví dụ: 6) có thể phân tách chi tiết hơn (tiền vệ phòng ngự, tiền vệ tấn công, cánh), nhưng có thể làm kết quả phức tạp hơn.
+
+2. Diễn giải các cụm:
+- Cụm 0:
+  + Đặc trưng bởi các chỉ số cao: TotDist
+  + Chủ yếu là: DF, MF
+- Cụm 1:
+  + Đặc trưng bởi các chỉ số cao: TotDist
+  + Chủ yếu là: MF, DF
+- Cụm 2:
+  + Đặc trưng bởi các chỉ số cao: TotDist, ProDist
+  + Chủ yếu là: FW, FW,MF
+- Cụm 3:
+  + Đặc trưng bởi các chỉ số cao: TotDist
+  + Chủ yếu là: DF, GK
+
+3. Nhận xét về biểu đồ PCA:
+- Biểu đồ phân cụm 2D (xem kmeans_pca_plot.png) hiển thị các cụm trong không gian 2 chiều, giải thích 54.00% phương sai.
+- Các cụm được phân tách rõ rệt nếu các điểm thuộc cùng cụm tập trung gần nhau, cho thấy K-means đã phân nhóm tốt.
+- Nếu các cụm chồng lấn, điều này có thể do PCA không giữ được toàn bộ thông tin từ dữ liệu gốc, hoặc các vai trò có phong cách chơi tương đồng (ví dụ: tiền vệ tấn công và tiền đạo).
+
+4. Nhận xét tổng quan:
+- K-means kết hợp PCA giúp trực quan hóa phong cách chơi, phản ánh vai trò trên sân (thủ môn có Save% cao, tiền đạo có Gls, xG cao, v.v.).
+- Một số cụm có thể chồng lấn do tương quan giữa các chỉ số (ví dụ: tiền vệ và tiền đạo đều có Ast cao).
+- Kết quả phù hợp để phân tích chiến thuật, nhưng có thể cải thiện bằng cách chọn các chỉ số 'per 90' để giảm ảnh hưởng thời gian thi đấu hoặc tăng K để tách biệt vai trò chi tiết hơn.
+- Đề xuất: Sử dụng các thuật toán phân cụm khác (như DBSCAN) hoặc thêm các chỉ số đặc trưng hơn để cải thiện độ tách biệt của các cụm.

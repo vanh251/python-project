@@ -1,0 +1,79 @@
+Phân tích đội có điểm số cao nhất cho từng chỉ số tích cực - Premier League 2024–2025
+================================================================================
+
+1. Đội dẫn đầu cho từng chỉ số tích cực:
+- Gls: Liverpool (80.00)
+- Ast: Liverpool (60.00)
+- xG: Liverpool (77.20)
+- xAG: Liverpool (56.20)
+- PrgC: Manchester City (1041.00)
+- PrgP: Liverpool (1763.00)
+- PrgR: Liverpool (1744.00)
+- Gls per 90: Manchester City (4.46)
+- Ast per 90: Chelsea (3.31)
+- xG per 90: Aston Villa (4.79)
+- xAG per 90: Chelsea (3.86)
+- SCA: Liverpool (1067.00)
+- SCA90: Manchester Utd (64.96)
+- GCA: Liverpool (137.00)
+- GCA90: Brighton (8.34)
+- SoT%: Tottenham (789.90)
+- SoT per 90: Bournemouth (12.38)
+- G per Sh: Manchester City (2.92)
+- Cmp: Manchester City (19838.00)
+- Cmp%: Manchester Utd (2458.40)
+- TotDist: Manchester City (321782.00)
+- ShortCmp%: Manchester Utd (2707.80)
+- MedCmp%: Manchester Utd (2546.20)
+- LongCmp%: Manchester Utd (1737.20)
+- KP: Liverpool (471.00)
+- Pass into 1_3: Manchester City (1550.00)
+- PPA: Arsenal (402.00)
+- CrsPA: Bournemouth (93.00)
+- Tkl: Manchester Utd (753.00)
+- TklW: Manchester Utd (454.00)
+- Blocks: Brentford (445.00)
+- Int: Manchester Utd (344.00)
+- Recov: Bournemouth (1684.00)
+- Aerl Won: Brentford (578.00)
+- Aerl Won%: Southampton (1579.10)
+- Touches: Manchester City (25845.00)
+- Def Pen: Brentford (3057.00)
+- Def 3rd: Manchester Utd (7975.00)
+- Mid 3rd: Manchester City (11182.00)
+- Att 3rd: Manchester City (8835.00)
+- Att Pen: Manchester City (1213.00)
+- Take-Ons Att: Tottenham (770.00)
+- Succ%: Aston Villa (1310.60)
+- Carries: Manchester City (16617.00)
+- ProDist: Manchester City (51299.00)
+- Carries 1_3: Manchester City (779.00)
+- CPA: Manchester City (362.00)
+- Rec: Manchester City (19576.00)
+- Rec PrgR: Liverpool (1744.00)
+- Sh: Brentford (183.00)
+- Pass: Crystal Palace (313.00)
+- Fld: Tottenham (458.00)
+- Crs: Fulham (801.00)
+- Save%: Bournemouth (240.00)
+- CS%: Aston Villa (117.60)
+- PK Save%: Everton (100.00)
+
+2. Đội thể hiện tốt nhất:
+Đội Manchester City dẫn đầu trong 15 chỉ số tích cực, thể hiện phong độ xuất sắc nhất tại Premier League 2024–2025.
+
+3. Danh sách các đội và số chỉ số tích cực dẫn đầu:
+- Manchester City: 15 chỉ số
+- Liverpool: 10 chỉ số
+- Manchester Utd: 9 chỉ số
+- Bournemouth: 4 chỉ số
+- Brentford: 4 chỉ số
+- Aston Villa: 3 chỉ số
+- Tottenham: 3 chỉ số
+- Chelsea: 2 chỉ số
+- Brighton: 1 chỉ số
+- Arsenal: 1 chỉ số
+- Southampton: 1 chỉ số
+- Crystal Palace: 1 chỉ số
+- Fulham: 1 chỉ số
+- Everton: 1 chỉ số
